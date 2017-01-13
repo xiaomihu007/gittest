@@ -1,1 +1,1 @@
-hello world
+23种php设计模式
